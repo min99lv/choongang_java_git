@@ -3,7 +3,7 @@ package lv0;
 public class ex01 {
 	public static void main(String[] args) {
 	Solution sl = new Solution();
-	System.err.println(sl.solution(10));
+	System.out.println(sl.solution(10));
 	}
 
 }

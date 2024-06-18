@@ -4,7 +4,7 @@ public class ex02 {
 	
 	public static void main(String[] args) {
 		Solution1 sl = new Solution1();
-		System.err.println(sl.solution(3,2));
+		System.out.println(sl.solution(3,2));
 	}
 
 }
